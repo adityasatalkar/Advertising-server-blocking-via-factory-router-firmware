@@ -14,7 +14,7 @@ Bad news, you will need to copy/paste each one of the servers below to the list.
 I am adding 2 different list, one if your router has a 10 URL limit, and a second one if your router does not have a limit on how many URL’s you can block.
 
 If your router has a low limit on how many URL’s you can block, I would suggest adding this 10 servers only:
-
+```
 doubleclick.com     
 doubleclick.net     
 googleadservices.com
@@ -24,9 +24,11 @@ omniture.com
 intellitxt.com      
 quantserve.com   
 2o7.net 
-207.net  
-If your router has a low limit on how many URL’s you can block, I would suggest adding this 25 servers only:
+207.net 
+```
 
+If your router has a low limit on how many URL’s you can block, I would suggest adding this 25 servers only:
+```
 doubleclick.com     
 doubleclick.net     
 googleadservices.com
@@ -52,8 +54,10 @@ channelintelligence.com
 aquantive.com
 adthis.com
 247realmedia.com
-If your router does not have a limit on how many URL’s you can block, I would suggest adding the 80 servers below.
+```
 
+If your router does not have a limit on how many URL’s you can block, I would suggest adding the 80 servers below.
+```
 adsense.com
 adblade.com
 207.net             
@@ -131,3 +135,4 @@ yieldmanager.net
 yldmgrimg.net
 youknowbest.com    
 yumenetworks.com
+```
